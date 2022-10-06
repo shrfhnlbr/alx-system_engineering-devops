@@ -1,2 +1,2 @@
-#!/bin/bash
-\no string SCHOOL data\n!:mine School
+\no string SCHOOL school data \n!:mine School
+file -C -n school.mgc
